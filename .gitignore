@@ -1,10 +1,10 @@
 # Default ignored files
 /.idea/
-.idea
-
+.idea/
 /shelf/
 /.idea/workspace.xml
 /misc.xml
 /modules.xml
 /workspace.xml
 /weather.iml
+/.gitignore
