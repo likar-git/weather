@@ -1,5 +1,5 @@
 # Default ignored files
-/weather.iml
+.idea/weather.iml
 /shelf/
 /workspace.xml
 /misc.xml
